@@ -1,3 +1,3 @@
-# Template program
+# Dolgozók nyilvántartás
 
-Template leírás
+Beosztások és dolgozók
